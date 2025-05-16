@@ -14,7 +14,7 @@ LOGO = f"""
 {Fore.YELLOW}{Style.BRIGHT}
 ╔══════════════════════════════════════════════════════════════════╗
 ║ {Fore.RED}{Style.BRIGHT}████████╗ ██████╗ ███╗   ███╗███████╗                           {Fore.YELLOW} ║
-║ {Fore.RED}{Style.BRIGHT}╚══██╔══╝██╔═══██╗████╗ ████║██╔════╝    {Fore.YELLOW}{Style.BRIGHT}══> {Fore.GREEN}{Style.BRIGHT}[ {Fore.BLUE}{Style.BRIGHT}TEUKU MAULANA {Fore.GREEN}{Style.BRIGHT}]  {Fore.YELLOW} ║
+║ {Fore.RED}{Style.BRIGHT}╚══██╔══╝██╔═══██╗████╗ ████║██╔════╝    {Fore.YELLOW}{Style.BRIGHT}══> {Fore.GREEN}{Style.BRIGHT}[ {Fore.BLUE}{Style.BRIGHT} AUTHOR TOM26x{Fore.GREEN}{Style.BRIGHT}]  {Fore.YELLOW} ║
 ║ {Fore.RED}{Style.BRIGHT}   ██║   ██║   ██║██╔████╔██║███████╗    {Fore.YELLOW}{Style.BRIGHT}══> {Fore.GREEN}{Style.BRIGHT}[ {Fore.BLUE}{Style.BRIGHT}HTTP Flood    {Fore.GREEN}{Style.BRIGHT}]  {Fore.YELLOW} ║
 ║ {Fore.WHITE}{Style.BRIGHT}   ██║   ██║   ██║██║╚██╔╝██║╚════██║    {Fore.YELLOW}{Style.BRIGHT}══> {Fore.GREEN}{Style.BRIGHT}[ {Fore.BLUE}{Style.BRIGHT}LAYER 7       {Fore.GREEN}{Style.BRIGHT}]  {Fore.YELLOW} ║
 ║ {Fore.WHITE}{Style.BRIGHT}   ██║   ╚██████╔╝██║ ╚═╝ ██║███████║    {Fore.YELLOW}{Style.BRIGHT}══> {Fore.GREEN}{Style.BRIGHT}[ {Fore.BLUE}{Style.BRIGHT}VERSION 1     {Fore.GREEN}{Style.BRIGHT}]  {Fore.YELLOW} ║
