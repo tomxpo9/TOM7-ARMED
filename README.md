@@ -14,4 +14,6 @@
 
 ---
 # Join US
+---
 <p align="center"><a href="https://t.me/tomcat9" target="_blank"><img src="https://cdn-icons-png.flaticon.com/24/2111/2111646.png" width="60" alt="Telegram"/></a></p>
+---
